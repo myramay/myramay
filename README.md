@@ -24,7 +24,7 @@ I build things that sit at the intersection of code, cognition, and culture. My 
 
 ### my drag race alignment
 
-I believe in: reading people with precision, sewing your own look, and never lip syncing for your life because you stayed in your lane too long. My repos are the same energy — built with full personality, no filler.
+I believe in: reading people with precision, sewing your own look, and never lip syncing for your life because you stayed in your lane too long. I like to think that my repos have the same energy.
 
 > *"We're all born naked and the rest is drag." *
 
