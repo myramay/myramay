@@ -34,11 +34,10 @@ I believe in: reading people with precision, sewing your own look, and never lip
 
 ```
 🔬  computational psychology research — using ML to understand how minds (and media) work
-📖  published author + Substack writer → substack.com/[yourhandle]
 🏛️  studying HIV policy in Russia through a Foucauldian & Butlerian lens
 🧵  advocating for body liberation & anti-fatphobia in fashion
 🏋️  D1 athlete · marathon runner · weightlifter · gymnastics coach — yes, all at once
-🇷🇺  Russian language teacher (носитель не нужен, главное харизма)
+🇷🇺  Russian studies learner (носитель не нужен, главное харизма)
 👑  executive board member in more clubs than I have free hours
 ```
 
