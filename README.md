@@ -6,7 +6,7 @@
 
 # myra may clark 
 
-*computational psychology researcher · published author · the thrifting god · lover of foucault, fourier transforms, and rupaul's drag race*
+*researcher · published author · the thrifting god · lover of foucault, fourier transforms, and rupaul's drag race*
 
 </div>
 
@@ -69,7 +69,7 @@ I believe in: reading people with precision, sewing your own look, and never lip
 
 **in fashion:** killing fatphobia and skinnytok. style is not a size. the industry has a body image crisis and i'm not shutting up about it.
 
-**in code:** i love completing my own projects — no half-finished repos here (except for one draft). i especially love visualizations and tools that actually do something in the real world.
+**in code:** i love completing my own projects — no half-finished repos here (except for one draft). i especially love visualizations and tools that actually do something in the real world. recently getting back into coding after stepping away since high school, and building like i have something to prove.
 
 **in life:** food, thrift stores, the Drag Race judging panel's inconsistency, deadlifts, and a well-argued point.
 
