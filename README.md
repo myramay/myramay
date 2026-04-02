@@ -14,7 +14,7 @@
 
 ### who i am
 
-CS × Medicine × Health & Society student with Economics & Russian Studies minors — because one major is for quitters.
+CS × Medicine × Health & Society student with Economics & Russian Studies minors.
 
 I build things that sit at the intersection of code, cognition, and culture. My research asks: what can machines tell us about the human mind? My fashion asks: why are we still letting body norms write the dress code? My thrift hauls ask: why would you pay retail?
 
@@ -26,7 +26,7 @@ I build things that sit at the intersection of code, cognition, and culture. My 
 
 I believe in: reading people with precision, sewing your own look, and never lip syncing for your life because you stayed in your lane too long. My repos are the same energy — built with full personality, no filler.
 
-> *"We're all born naked and the rest is `git commit`." — me, probably.*
+> *"We're all born naked and the rest is drag." *
 
 ---
 
