@@ -6,7 +6,7 @@
 
 # myra may clark &nbsp;`she/her`
 
-*computational psychology researcher · published author · the thrifting god · lover of foucault, fourier transforms, and a good lip sync*
+*computational psychology researcher · published author · the thrifting god · lover of foucault, fourier transforms, and rupaul's drag race*
 
 </div>
 
