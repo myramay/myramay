@@ -6,7 +6,7 @@
 
 # myra may clark 
 
-*researcher · published author · the thrifting god · lover of foucault, fourier transforms, and rupaul's drag race*
+*researcher · published author · the thrifting god · runner · lover of foucault, foreign policy, languages, and rupaul's drag race*
 
 </div>
 
