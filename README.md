@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# myra may clark &nbsp;`she/her`
+# myra may clark 
 
 *computational psychology researcher · published author · the thrifting god · lover of foucault, fourier transforms, and rupaul's drag race*
 
@@ -35,7 +35,7 @@ I believe in: reading people with precision, sewing your own look, and never lip
 ```
 🔬  computational psychology research — using ML to understand how minds (and media) work
 🏛️  studying HIV policy in Russia through a Foucauldian & Butlerian lens
-🧵  advocating for body liberation & anti-fatphobia in fashion
+🧵  advocating for body liberation in fashion
 🏋️  D1 athlete · marathon runner · weightlifter · gymnastics coach — yes, all at once
 🇷🇺  Russian studies learner (носитель не нужен, главное харизма)
 👑  executive board member in more clubs than I have free hours
@@ -50,7 +50,6 @@ I believe in: reading people with precision, sewing your own look, and never lip
 | [`riemann-zeta`](https://github.com/myramay/riemann-zeta) | browser viz of the Riemann Zeta Function along Re(s) = ½ | visualizing the most famous unsolved problem in math. she's giving main character. |
 | [`fourier-transform`](https://github.com/myramay/fourier-transform) | draw a waveform, watch it decompose into sine waves in real time | DFT from scratch, fully animated. we love math. |
 | [`neural-ode-from-scratch`](https://github.com/myramay/neural-ode-from-scratch) | Neural ODE classifier with adjoint sensitivity + dopri5 solver | i love her. |
-| [`pattern-detection`](https://github.com/myramay/pattern-detection) | Chrome extension flagging dark UI patterns | fighting manipulation one DOM node at a time. |
 | [`should-i-keep-it`](https://github.com/myramay/should-i-keep-it) | AI agent that decides whether to keep, return, or resell a purchase | built this for myself. no notes. |
 | [`rupaul-prediction`](https://github.com/myramay/rupaul-prediction) | ML model predicting the RPDR winner from episode performance data | personal. sacred. do not come for it. |
 
@@ -70,7 +69,7 @@ I believe in: reading people with precision, sewing your own look, and never lip
 
 **in fashion:** killing fatphobia and skinnytok. style is not a size. the industry has a body image crisis and i'm not shutting up about it.
 
-**in code:** i love completing my own projects — no half-finished repos here (except for one draft). i especially love math-heavy visualizations and tools that actually do something in the real world.
+**in code:** i love completing my own projects — no half-finished repos here (except for one draft). i especially love visualizations and tools that actually do something in the real world.
 
 **in life:** food, thrift stores, the Drag Race judging panel's inconsistency, deadlifts, and a well-argued point.
 
