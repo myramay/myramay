@@ -18,15 +18,7 @@ CS × Medicine × Health & Society student with Economics & Russian Studies mino
 
 I build things that sit at the intersection of code, cognition, and culture. My research asks: what can machines tell us about the human mind? My fashion asks: why are we still letting body norms write the dress code? My thrift hauls ask: why would you pay retail?
 
-> *Somewhere between a Foucauldian scholar and a girl who can run a marathon faster than you.*
-
----
-
-### my drag race alignment
-
-I believe in: reading people with precision, sewing your own look, and never lip syncing for your life because you stayed in your lane too long. I like to think that my repos have the same energy.
-
-> *"We're all born naked and the rest is drag." *
+> *Between a Foucauldian scholar and a girl who can run a marathon faster than you.*
 
 ---
 
